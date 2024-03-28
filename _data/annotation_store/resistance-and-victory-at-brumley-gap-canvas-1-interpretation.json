@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/annotations/resistance-and-victory-at-brumley-gap-canvas-1-interpretation.json",
+  "type": "AnnotationPage",
+  "label": "interpretation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "resistance-and-victory-at-brumley-gap-canvas-1-interpretation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"\"\"Lorem ipsum dolor sit amet.\"\"\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"lorem",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/resistance-and-victory-at-brumley-gap/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/resistance-and-victory-at-brumley-gap/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3.0,4.0"
+        }
+      }
+    }
+  ]
+}

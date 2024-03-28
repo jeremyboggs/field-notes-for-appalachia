@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/annotations/resistance-and-victory-at-brumley-gap-canvas-1--consectetur-adipiscing-elit--levatio-igitur-vitiorum-magna-fit-in-iis.json",
+  "type": "AnnotationPage",
+  "label": " consectetur adipiscing elit. Levatio igitur vitiorum magna fit in iis",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "resistance-and-victory-at-brumley-gap-canvas-1--consectetur-adipiscing-elit--levatio-igitur-vitiorum-magna-fit-in-iis-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"\"\"Lorem ipsum dolor sit amet",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "qui habent ad virtutem progressionis aliquantum. Haec para/doca illi",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/resistance-and-victory-at-brumley-gap/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/resistance-and-victory-at-brumley-gap/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.0,2.0"
+        }
+      }
+    }
+  ]
+}

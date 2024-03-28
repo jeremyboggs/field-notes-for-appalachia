@@ -23,6 +23,32 @@
         "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/resistance-and-victory-at-brumley-gap/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1788.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/annotations/resistance-and-victory-at-brumley-gap-canvas-1--nos-admirabilia-dicamus--hoc-dixerit-potius-ennius--nimium-boni-est.json",
+            "label": {
+              "none": [" nos admirabilia dicamus. Hoc dixerit potius Ennius: Nimium boni est"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/annotations/resistance-and-victory-at-brumley-gap-canvas-1--consectetur-adipiscing-elit--levatio-igitur-vitiorum-magna-fit-in-iis.json",
+            "label": {
+              "none": [" consectetur adipiscing elit. Levatio igitur vitiorum magna fit in iis"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/annotations/resistance-and-victory-at-brumley-gap-canvas-1-interpretation.json",
+            "label": {
+              "none": ["interpretation"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/resistance-and-victory-at-brumley-gap/canvas-1/paintings",
