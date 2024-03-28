@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: 2022 Flood
+title: Resistance and Victory at Brumley Gap
 manifest_name: 2022-flood
 
 ---

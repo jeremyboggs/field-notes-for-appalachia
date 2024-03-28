@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/2022-flood/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "2022 Flood" ] },
+    "label": { "en": [ "Resistance and Victory at Brumley Gap" ] },
     "homepage": [
       {
-        "id": "https://www.youtube.com/watch?v=_czaFf_Td7A",
+        "id": "https://archive.org/details/0004BrumelyGap",
         "type": "Text",
-        "label": { "en": [ "2022 Flood" ] },
+        "label": { "en": [ "Resistance and Victory at Brumley Gap" ] },
         "format": "text/html"
       }
     ],
@@ -22,7 +22,7 @@
       {
         "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/2022-flood/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 636.0,
+        "duration": 1788.0,
         "items": [
           {
             "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/2022-flood/canvas-1/paintings",
@@ -33,8 +33,8 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://www.youtube.com/watch?v=_czaFf_Td7A",
-                    "duration": 636.0
+                  "id": "https://archive.org/download/0004BrumelyGap/0004BrumelyGap_Avg15MbpsVBR.mpeg",
+                    "duration": 1788.0
                 },
                 "target": "https://jeremyboggs.github.io/field-notes-for-appalachia/2022-flood/canvas-1/canvas"
               }
