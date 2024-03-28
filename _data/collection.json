@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Field Notes in Appalachia" ] },
+    "summary": { "en": [ "We're fixin' to annotate some moving pictures for y'all." ] },
+    "items": [
+    ]
+}
