@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Here's a home page.
