@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/2022-flood/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "2022 Flood" ] },
+    "homepage": [
+      {
+        "id": "https://www.youtube.com/watch?v=_czaFf_Td7A",
+        "type": "Text",
+        "label": { "en": [ "2022 Flood" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://appalshop.org",
+        "type": "Agent",
+        "label": { "en": [ "Appalshop" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/2022-flood/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 636.0,
+        "items": [
+          {
+            "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/2022-flood/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://jeremyboggs.github.io/field-notes-for-appalachia/2022-flood/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.youtube.com/watch?v=_czaFf_Td7A",
+                    "duration": 636.0
+                },
+                "target": "https://jeremyboggs.github.io/field-notes-for-appalachia/2022-flood/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
